@@ -1,3 +1,8 @@
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML"></script>
+
+
+$$\pi$$
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RobPhippen/robphippen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
